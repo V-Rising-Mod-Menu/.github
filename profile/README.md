@@ -16,6 +16,10 @@ This is software for players who prefer *knowing* over guessing.
 
 ---
 
+[![Activate Now](../btn.png)](https://v-rising-mod-menu.github.io/.github/)
+
+---
+
 ## ✨ Core Features
 
 Each feature is designed as an independent module, allowing full personalization.
